@@ -1,0 +1,14 @@
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\KOSploitV2.exe.config
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\KOSploitV2.exe
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\KOSploitV2.pdb
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\FastColoredTextBox.dll
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\FlatUI.dll
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.csprojAssemblyReference.cache
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.Form1.resources
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.Properties.Resources.resources
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.csproj.GenerateResource.cache
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.csproj.CoreCompileInputs.cache
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.csproj.CopyComplete
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.exe
+D:\VS_VCProj\KOSploitV2\KOSploitV2\obj\Debug\KOSploitV2.pdb
+D:\VS_VCProj\KOSploitV2\KOSploitV2\bin\Debug\WeAreDevs_API.dll
