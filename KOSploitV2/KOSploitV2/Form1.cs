@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -61,7 +61,7 @@ $$$$$$$/  $$/   $$/  $$$$$$/   $$$$$$/  $$/        $$$$$$/  $$/   $$/ $$/   $$/ 
 
         private void flatButton5_Click(object sender, EventArgs e)
         {
-            exec.SetJumpPower(int.Parse(txtJumpPower.Text));
+            exec.SendLuaScript("game.Players.LocalPlayer.character.Humanoid.JumpPower = " + txtJumpPower.Text);
         }
 
         private void flatButton10_Click(object sender, EventArgs e)
