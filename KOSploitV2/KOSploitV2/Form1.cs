@@ -129,7 +129,7 @@ $$$$$$$/  $$/   $$/  $$$$$$/   $$$$$$/  $$/        $$$$$$/  $$/   $$/ $$/   $$/ 
 
         private void flatButton16_Click(object sender, EventArgs e)
         {
-            exec.SendLuaScript("local Plr = game:GetService(\"Players\").LocalPlayer\r\nlocal Mouse = Plr:GetMouse()\r\n\r\nMouse.Button1Down:connect(function()\r\nif not game:GetService(\"UserInputService\"):IsKeyDown(Enum.KeyCode.LeftControl) then return end\r\nif not Mouse.Target then return end\r\nPlr.Character:MoveTo(Mouse.Hit.p)\r\nend)\r\n");
+            exec.SendLuaScript("plr = game.Players.LocalPlayer\r\n\r\nhum = plr.Character.HumanoidRootPart\r\n\r\nmouse = plr:GetMouse()\r\n\r\n\r\n\r\nmouse.KeyDown:connect(function(key)\r\n\r\nif key == \"q\" then\r\n\r\nif mouse.Target then\r\n\r\nhum.CFrame = CFrame.new(mouse.Hit.x, mouse.Hit.y + 5, mouse.Hit.z)\r\n\r\nend\r\n\r\nend\r\nend)");
         }
 
         private void flatButton17_Click(object sender, EventArgs e)
